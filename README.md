@@ -364,7 +364,7 @@ Tools
 --------
 
 ### AI
-* :heavy_dollar_sign: [3D-Agent](https://3d-agent.com/blender-ai) - Desktop AI agent for Blender that models with clean quad topology, does UVs, materials, rigging and animation from plain-language prompts, exports OBJ/FBX/GLB and connects to Roblox Studio
+* :heavy_dollar_sign: [3D-Agent](https://3d-agent.com/blender-ai) - Blender AI agent and AI 3D model generator for game assets: text-to-3D with clean quad topology, AI retopology, UVs and rigging, exports OBJ/FBX/GLB and connects to Roblox Studio
 * :triangular_flag_on_post: [Coplay](https://coplay.dev?ref=github&utm_source=gamedev_resources) - Multi-agent AI Assistant designed to amplify developer impact in Unity 
 * :triangular_flag_on_post: [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
 
